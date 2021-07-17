@@ -1,8 +1,8 @@
 # Tema do projeto: 
-Sistema de controle de fornecedores.
+Sistema de controle de funcionários.
 
 ## 🚀 Resumo: 
-O sistema deverá permitir ao usuário gerenciar dados de fornecedores
+O sistema deverá permitir ao usuário gerenciar dados de funcionários
 e gerar relatórios.
 
 
